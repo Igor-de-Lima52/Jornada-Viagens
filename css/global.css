@@ -1,0 +1,25 @@
+:root {
+  --background-primary-color: #FFF;
+  --background-secondary-color: #F5F5F5;
+  --background-tertiary-color: #000;
+
+  --primary-color: #8F0101;
+  --secondary-color: #B81515;
+
+  --text-primary-color: #222;
+  --text-secondary-color: #FFF;
+  
+  --titles-weight: 700;
+  --text-weight: 400;
+  --menu-text-weight: 500;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat";
+}
