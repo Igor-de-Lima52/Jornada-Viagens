@@ -11,10 +11,6 @@
   width: 100%;
 }
 
-.payments .content-container {
-  display: flex;
-}
-
 .payments .content-container .image-gallery .image {
   height: 254px;
 }
@@ -59,6 +55,7 @@
 
 @media screen and (min-width: 1440px) {
   .payments .content-container {
+    display: flex;
     justify-content: space-between;
   }
   .payments .content-container .text-content {
